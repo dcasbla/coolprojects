@@ -1,14 +1,13 @@
 import random
-
 m = -1
 score =0
 
 exam = [
     ['Present', 'canti,cantis,canti,cantem,canteu,cantin'],
-    ['Passat perfet', 'hagi cantat'],
-    ['Imperfet', 'cantés'],
-    ['Passat plusquamperfet', 'hagués cantat'],
-    ['Imperatiu', 'canta'],
+    ['Passat perfet', 'hagi cantat,hagis cantat,hagi cantat,hàgim cantat,hàgiu cantat,hagin cantat'],
+    ['Imperfet', 'cantés,cantessis,cantés,cantéssim,cantéssiu,cantessin'],
+    ['Passat plusquamperfet', 'hagués cantat,hagués cantat,haguessis cantat,hagués cantat,haguéssim cantat,haguéssiu cantat,haguessin cantat'],
+    ['Imperatiu', 'canta,canti,cantem,canteu,cantin'],
     ['Infinitiu','cantar'],
     ['infinitiu perfet','haver cantat'],
     ['gerundi','cantant'],
