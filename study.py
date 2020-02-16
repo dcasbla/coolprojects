@@ -12,20 +12,20 @@ exam = [
     ['Passat perfet : jo', 'hagi cantat'],
     ['passat perfet : tu','hagis cantat'],
     ['passat perfet : ell/ella','hagi cantat'],
-    ['passat perfet : nosaltres','hàgim cantat'],
-    ['passat perfet : vosaltres','hàgiu cantat'],
+    ['passat perfet : nosaltres','hagim cantat'],
+    ['passat perfet : vosaltres','hagiu cantat'],
     ['passat perfet : ells/elles','hagin cantat'],
-    ['Imperfet : jo', 'cantés'],
+    ['Imperfet : jo', 'cantes'],
     ['Imperfet : tu','cantessis'],
-    ['Imperfet :ell/ella','cantés'],
-    ['Imperfet : nosaltres','cantéssim'],
-    ['Imperfet : vosaltres','cantéssiu'],
+    ['Imperfet :ell/ella','cantes'],
+    ['Imperfet : nosaltres','cantessim'],
+    ['Imperfet : vosaltres','cantessiu'],
     ['Imperfet : ells/ellas','cantessin'],
-    ['Passat plusquamperfet : jo', 'hagués cantat'],
+    ['Passat plusquamperfet : jo', 'hagues cantat'],
     ['Passat plusquamperfet : tu','haguessis cantat'],
-    ['Passat plusquamperfet : ell/ella','hagués cantat'],
-    ['Passat plusquamperfet : nosaltres','haguéssim cantat'],
-    ['Passat plusquamperfet : vosaltres','haguéssiu cantat'],
+    ['Passat plusquamperfet : ell/ella','hagues cantat'],
+    ['Passat plusquamperfet : nosaltres','haguessim cantat'],
+    ['Passat plusquamperfet : vosaltres','haguessiu cantat'],
     ['passat plusquamperfet : ells/ellas','haguessin cantat'],
     ['Imperatiu', 'canta,canti,cantem,canteu,cantin'],
     ['Infinitiu','cantar'],
@@ -33,6 +33,24 @@ exam = [
     ['gerundi','cantant'],
     ['gerundi perfet','havent cantat'],
     ['participi','cantat,cantada,cantats,cantades']
+    ['present indicatiu : jo','canto']
+    ['present indicatiu : tu','cantes']
+    ['present indicatiu : ell/ella','canta']
+    ['present indicatiu : nosaltres','cantem']
+    ['present indicatiu : vosaltres','canteu']
+    ['present indicatiu : ells,elles','canten']
+    ['preterit imperfet indicatiu : jo','cantava']
+    ['preterit imperfet indicatiu : tu','cantaves']
+    ['preterit imperfet indicatiu : ell/ella','cantava']
+    ['preterit imperfet indicatiu : nosaltres','cantavem']
+    ['preterit imperfet indicatiu : vosaltres','cantaveu']
+    ['preterit imperfet indicatiu : ells/elles','cantaven']
+    ['passat simple : jo','canti']
+    ['passat simple : tu','cantares']
+    ['passat simple : ell/ella','canta']
+    ['passat simple : nosaltres','cantarem']
+    ['passat simple : vosaltres','cantareu']
+    ['passat simple : ells/elles','cantaren']
 ]
 
 while(True):
